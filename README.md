@@ -8,8 +8,8 @@
 </p>
 
 <!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=bbcfive&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=bbcfive&repo=pixel-weather">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=bbcfive">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=bbcfive">
 </p> -->
 
 
