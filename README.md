@@ -1,7 +1,7 @@
 # Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 <br> I'm Sijing, a Web3 Developer :computer:<br>
 
-- 🔭 I’m currently working on power platform stuff
+- 🔭 I’m currently working on power platform developing and zero-knowledge proof related stuff
 - 🌱 I’m interested about blockchain/web3, wasm and frontend developing
 - 💬 I'm passionate about music, anime, reading and language learning
 - 😄 And wanna became a creative person and lifelong learner
